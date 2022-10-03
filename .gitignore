@@ -127,3 +127,108 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#################################################
+### Custom files
+# pycharm setting
+.idea
+
+# data file
+*.pkl
+
+# private file
+*.cpp
+
+# d3rlpy .gitignore
+d3rlpy/*.pyc
+d3rlpy/*__pycache__
+d3rlpy/*.pkl
+d3rlpy/*.c
+d3rlpy/*.cpp
+d3rlpy/*.so
+d3rlpy/.python-version
+d3rlpy/d3rlpy_data
+d3rlpy/test_data
+d3rlpy/runs
+d3rlpy/d3rlpy_logs
+d3rlpy/docs/_build
+d3rlpy/docs/d3rlpy*.rst
+d3rlpy/docs/modules.rst
+d3rlpy/docs/references/generated
+d3rlpy/coverage.xml
+d3rlpy/.coverage
+d3rlpy/.mypy_cache
+d3rlpy/build
+d3rlpy/dist
+d3rlpy/.idea/
+d3rlpy/*.egg-info
+
+# rl_baselines3_zoo .gitignore
+rl_baselines3_zoo/__pycache__/
+rl_baselines3_zoo/logs
+rl_baselines3_zoo/.pytest_cache/
+rl_baselines3_zoo/.coverage
+rl_baselines3_zoo/.coverage.*
+rl_baselines3_zoo/.idea/
+rl_baselines3_zoo/cluster_sbatch.sh
+rl_baselines3_zoo/cluster_sbatch_mpi.sh
+rl_baselines3_zoo/cluster_torchy.sh
+rl_baselines3_zoo/logs/
+rl_baselines3_zoo/rl-trained_agents/
+rl_baselines3_zoo/.pytype/
+rl_baselines3_zoo/htmlcov/
+rl_baselines3_zoo/git_rewrite_commit_history.sh
+rl_baselines3_zoo/.vscode/
+
+
+# stable_baselines3 .gitignore
+stable_baselines3/*.swp
+stable_baselines3/*.pyc
+stable_baselines3/*.pkl
+stable_baselines3/*.py~
+stable_baselines3/*.bak
+stable_baselines3/.pytest_cache
+stable_baselines3/.DS_Store
+stable_baselines3/.idea
+stable_baselines3/.vscode
+stable_baselines3/.coverage
+stable_baselines3/.coverage.*
+stable_baselines3/__pycache__/
+stable_baselines3/_build/
+stable_baselines3/*.npz
+stable_baselines3/*.pth
+stable_baselines3/.pytype/
+stable_baselines3/git_rewrite_commit_history.sh
+
+# Setuptools distribution and build folders.
+stable_baselines3/dist/
+stable_baselines3/build
+stable_baselines3/keys/
+
+# Virtualenv
+stable_baselines3/env
+stable_baselines3/venv
+
+
+stable_baselines3/*.sublime-project
+stable_baselines3/*.sublime-workspace
+
+stable_baselines3/.idea
+
+stable_baselines3/logs/
+
+stable_baselines3/.ipynb_checkpoints
+stable_baselines3/ghostdriver.log
+
+stable_baselines3/htmlcov
+
+stable_baselines3/junk
+stable_baselines3/src
+
+stable_baselines3/*.egg-info
+stable_baselines3/.cache
+stable_baselines3/*.lprof
+stable_baselines3/*.prof
+
+stable_baselines3/MUJOCO_LOG.TXT
