@@ -4,4 +4,4 @@
 
 ## Monte-Carlo Decision Transformer Scheme
 
-![png](https://github.com/LoteeYoon/Uncertainty_Sequence_Modeling/raw/main/MCDT_scheme.png?raw=true)
+![png](https://github.com/LoteeYoon/Uncertainty_Sequece_Modeling/blob/main/MCDT_scheme.PNG?raw=true)
