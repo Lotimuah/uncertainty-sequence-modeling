@@ -15,8 +15,15 @@ Deep reinforcement learning(RL) is an end-to-end data-driven control method that
 - gym-0.21.0
 - mujoco-2.1.4
 
-## Monte-Carlo Decision Transformer Scheme
+## Monte-Carlo Decision Transformer(MCDT) Scheme
 
 ![png](https://github.com/LoteeYoon/Uncertainty_Sequece_Modeling/blob/main/MCDT_scheme.PNG?raw=true)
 
-## citation
+## Citation
+
+```
+
+```
+## Acknowledgement
+
+This work is research project supported by the National Research Foundation of Korea in 2022.
