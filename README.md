@@ -1,6 +1,6 @@
 # Uncertainty Sequence Modeling for Safe and Effective Autonomous Driving
 
-This repo contains the code for this [paper]().
+This repo contains the code for this [paper](https://dx.doi.org/10.30693/SMJ.2022.11.9.9).
 
 <p align="center">
     <img src="https://github.com/LoteeYoon/uncertainty-sequence-modeling/blob/main/CarRacing_simulation.gif?raw=true">
@@ -19,11 +19,7 @@ Deep reinforcement learning(RL) is an end-to-end data-driven control method that
 
 ![png](https://github.com/LoteeYoon/Uncertainty_Sequece_Modeling/blob/main/MCDT_scheme.PNG?raw=true)
 
-## Citation
 
-```
-
-```
 ## Acknowledgement
 
 This work is research project supported by the National Research Foundation of Korea in 2022.
